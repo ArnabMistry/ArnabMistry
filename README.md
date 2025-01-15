@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArnabMistry
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning cpp
 - 📫 How to reach me arnabmistry05@gmail.com
 
 <!---
