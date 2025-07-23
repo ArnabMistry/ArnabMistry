@@ -1,8 +1,10 @@
 <!-- GitHub Banner -->
+<!-- Typing SVG Banner (wrapped correctly) -->
+<div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+I'm+Arnab+Mistry;CS+Undergrad+at+IIIT+Nagpur;Full-Stack+Developer+%7C+Web3+%7C+Cybersecurity+%7C+Crypto+Enthusiast;Hackathon+Winner+%7C+IIM+Indore+Campus+Finalist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+I'm+Arnab+Mistry;CS+Undergrad+at+IIIT+Nagpur;Full-Stack+Dev+%7C+Web3+%7C+Cybersecurity" alt="Typing SVG" />
 </p>
-
+</div>
 <p align="center">
   <img src="https://img.shields.io/github/followers/arnabmistry?label=Followers&style=social" alt="GitHub followers">
   <img src="https://komarev.com/ghpvc/?username=arnabmistry&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
@@ -33,7 +35,7 @@ I'm a Computer Science undergraduate at **IIIT Nagpur**, with interests in **Ful
 
 ---
 
-### 📱 Featured Project
+### 📱 Featured Project(upcoming)
 
 **Stellara —*Send your heart to the stars***  
 A poetic, Android-based cosmic messaging app synced with ISS satellite flyovers.  
@@ -59,9 +61,9 @@ A poetic, Android-based cosmic messaging app synced with ISS satellite flyovers.
 
 ### 📫 Let's Connect
 
-- 📧 Email: **arnabmistry.official@gmail.com**  
+- 📧 Email: **arnabmistry05@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arnabmistry)  
-- 💻 [GitHub](https://github.com/arnabmistry)  
+- 💻 [GitHub](https://github.com/ArnabMistry)  
 - 🌐 Portfolio: *(Coming Soon)*
 
 ---
