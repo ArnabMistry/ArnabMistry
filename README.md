@@ -46,7 +46,15 @@ A poetic, Android-based cosmic messaging app synced with ISS satellite flyovers.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnabmistry&show_icons=true&theme=tokyonight" alt="Arnab's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArnabMistry&show_icons=true&theme=tokyonight" alt="Arnab's GitHub Stats" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arnabmistry&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="GitHub Trophies" />
 </p>
 
 ---
