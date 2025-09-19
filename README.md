@@ -23,7 +23,7 @@ I'm a Computer Science undergraduate at **IIIT Nagpur**, with interests in **Ful
 - 🏆 Hackathon Winner – **ESOC-X-HACK**
 - 🎯 Finalist – **IIM Indore Campus Hackathon**
 - 👨‍💻 Web Dev Lead – **Elevate Club**, IIITN
-- 🤝 Contributer - **Open Source Connect India**
+- 🤝 Contributer - **Girl Script Summer of Code & Open Source Connect India**
 
 ---
 
