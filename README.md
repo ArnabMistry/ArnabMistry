@@ -1,78 +1,20 @@
-<!-- GitHub Banner -->
-<!-- Typing SVG Banner (wrapped correctly) -->
-<div>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+I'm+Arnab+Mistry;CS+Undergrad+at+IIIT+Nagpur;Full-Stack+Dev+%7C+Web3+%7C+Cybersecurity" alt="Typing SVG" />
-</p>
-</div>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/arnabmistry?label=Followers&style=social" alt="GitHub followers">
-  <img src="https://komarev.com/ghpvc/?username=arnabmistry&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/CodeChef-⭐%20%20CP-orange" alt="CP Badge"/>
-  <img src="https://img.shields.io/badge/Web3-Enthusiast-blueviolet" alt="Web3 Badge"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-Explorer-darkred" alt="Cyber Badge"/>
-</p>
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
----
+I’m **Arnab**, a computer science student and software developer based in India.
 
-### 👋 About Me
+I build clean, well-structured applications with a strong focus on fundamentals, UI clarity, and real-world usability.
 
-I'm a Computer Science undergraduate at **IIIT Nagpur**, with interests in **Full-Stack Development**, **Web3**, **Cybersecurity**, and **Competitive Programming**. I love transforming ideas into usable, scalable, and aesthetic digital products.
+If something feels broken, inefficient, or poorly designed, chances are I’ll try to rebuild it properly.
 
-**Highlights:**
-- 🏆 Hackathon Winner – **ESOC-X-HACK**
-- 🎯 Finalist – **IIM Indore Campus Hackathon**
-- 👨‍💻 Web Dev Lead – **Elevate Club**, IIITN
-- 🤝 Contributer - **Girl Script Summer of Code & Open Source Connect India**
+My main tech stack is React, Next.js, JavaScript, and Tailwind CSS. I enjoy thinking deeply about frontend architecture, state management, and performance.
 
----
+I’ve led development teams, organized large technical events, and built under pressure in hackathons and competitive environments.
 
-### 🧰 Tech Stack
+You’ll find a mix of UI-focused projects, experiments, and real-world builds pinned here.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,tailwind,react,nextjs,flutter,dart,nodejs,express,mongodb,firebase,git,github,figma,linux,postman" />
-</p>
+#### Fun Facts:
 
----
-
-### 📱 Featured Project(upcoming)
-
-**Stellara —*Send your heart to the stars***  
-A poetic, Android-based cosmic messaging app synced with ISS satellite flyovers.  
-<sub>Tech: Kotlin · Android Studio · Firebase · Sensor API · AI Sentiment Layer</sub>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnabMistry&show_icons=true&theme=tokyonight" alt="Arnab's GitHub Stats" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arnabmistry&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="GitHub Trophies" />
-</p>
-
----
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-
----
-
-### 📫 Let's Connect
-
-- 📧 Email: **arnabmistry05@gmail.com**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/arnabmistry)  
-- 💻 [GitHub](https://github.com/ArnabMistry)  
-- 🌐 Portfolio: *(Coming Soon)*
-
----
-
+* I care a lot about clean design and structure  
+* I enjoy building things from scratch  
+* I like solving problems by breaking them down  
+* **Hobbies:** learning, building, shipping projects
